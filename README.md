@@ -11,10 +11,12 @@
 1. [Three-year roadmap](ROADMAP.md): three horizons and acceptance criteria.
 2. [Progress tracker](TRACKER.md): current baseline, 90-day checkpoints, and scorecard.
 3. [90-day execution plan](plans/FIRST_90_DAYS.md): weekly milestones and definitions of done.
-4. [Skills matrix](SKILLS_MATRIX.md): diagnostic rubric; baseline ratings are provisional, not tested.
-5. [Flagship project](projects/INCIDENT_INTELLIGENCE_PLATFORM.md): evidence-driven AI Incident Intelligence Platform.
-6. [Learning journal](journal/README.md): learn → implement → measure → explain.
-7. [Architecture decision template](templates/ADR_TEMPLATE.md): capture design trade-offs.
+4. [Foundation-first concept tracker](CONCEPT_TRACKER.md): terminology → intuition → code → application → review.
+5. [First lesson: synchronous vs asynchronous execution](learning/00-foundations/sync-vs-async.md): start with basics and a Python experiment.
+6. [Skills matrix](SKILLS_MATRIX.md): diagnostic rubric; baseline ratings are provisional, not tested.
+7. [Flagship project](projects/INCIDENT_INTELLIGENCE_PLATFORM.md): evidence-driven AI Incident Intelligence Platform.
+8. [Learning journal](journal/README.md): learn → implement → measure → explain.
+9. [Architecture decision template](templates/ADR_TEMPLATE.md): capture design trade-offs.
 
 ### Learning allocation (8–10 hours/week)
 
@@ -36,8 +38,8 @@ Coding/DSA interview maintenance runs **in parallel** as a steady practice habit
 - **Monthly architecture reviews** update the skill matrix using evidence, not self-confidence alone.
 - Avoid uploading employer code, production logs, customer data, private runbooks, or confidential architecture details. Build with synthetic/public/authorized data.
 
-### This week's starting point
+### Current starting point (updated November 2026)
 
-Start with the [architecture baseline issue](https://github.com/pjswall/AI-Architect-Roadmap/issues) and review one service end-to-end: request flow, asynchronous work, data ownership, scaling bottlenecks, reliability, security, observability and cost. Follow it with an architecture diagram and a first ADR.
+The learner has chosen a **70–80% hands-on technical** track and requested explicit instruction in foundational terminology rather than assuming familiarity. Begin with [synchronous vs asynchronous execution](learning/00-foundations/sync-vs-async.md); use the [concept tracker](CONCEPT_TRACKER.md) to track explanations, code evidence, and later revision. The existing architecture baseline remains a later integration exercise; do not treat unfinished earlier goals as completed.
 
 **Source:** user-provided career strategy, *Your 3-Year Career Strategy: AI Architect → Principal Architect / Engineering Leader*, October 2026. This repository translates its goals into checkable tasks. Compensation numbers from the source are aspirations, not guarantees.
