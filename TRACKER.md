@@ -9,6 +9,12 @@
 - **Done:** explicit acceptance criteria satisfied with links to evidence.
 - Never treat a created issue or document as evidence of mastering its topic.
 
+## Foundational learning checkpoint (added November 2026)
+
+**Current topic:** [Synchronous vs asynchronous execution](learning/00-foundations/sync-vs-async.md) — **Learning; no mastery verified**.
+
+Track prerequisite concepts and independent evidence in [CONCEPT_TRACKER.md](CONCEPT_TRACKER.md). The original 90-day project dates below are retained for historical continuity; future reviews should rebaseline the schedule around demonstrated prerequisites, not assume unfinished milestones were completed.
+
 ## First 90 days · Oct 27, 2026 – Jan 24, 2027
 
 | Period | Deliverables | State | Evidence |
